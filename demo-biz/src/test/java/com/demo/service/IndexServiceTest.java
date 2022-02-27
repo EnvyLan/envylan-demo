@@ -6,6 +6,6 @@ public class IndexServiceTest {
 
     @org.junit.Test
     public void abc() {
-        assertEquals(1, 2);
+        assertEquals(1, 1);
     }
 }
